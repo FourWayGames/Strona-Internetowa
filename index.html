@@ -21,15 +21,17 @@
 					<!-- Inner -->
 						<div class="inner">
 							<header>
-								<h1><a href="https://github.com/FourWayGames" id="logo">"Cienie Warszawy" zrobione przez FourWayGames</a></h1>
+								<h1><a href="https://github.com/FourWayGames" id="logo">"Cienie Warszawy" utworzone przez studio FourWayGames</a></h1>
 								<hr />
-								<p>Historia … ta bardziej odległa i ta bliższa jest Obrazem wspomnień minionych wydarzeń. </p>
-								<p>Obrazem o dynamicznej grze świateł i cieni …Doświadcz historii Bohaterskiego Zrywu. </p>
-								<p>Poznaj “Cienie Warszawy” </p>
+								<p><em>Historia … ta bardziej odległa i ta bliższa jest Obrazem wspomnień minionych wydarzeń. </em></p>
+								<p><em>Obrazem o dynamicznej grze świateł i cieni … Doświadcz historii Bohaterskiego Zrywu. </em></p>
+								<p><em>Poznaj “Cienie Warszawy” </em></p>
 							</header>
+							<center><img src="images/gamew.png" alt=""  style="width:100%; height:auto" /></center>
 							<footer>
 								<a href="#banner" class="button circled scrolly">Start</a>
 							</footer>
+							
 						</div>
 
 					<!-- Nav -->
@@ -41,13 +43,14 @@
 									<ul>
 										<li><a href="zrzuty.html">Zrzuty ekranu</a></li>
 										<li><a href="zespol.html">O zespole FourWayGames</a></li>
+										<li><a href="kulisy.html">Za kulisami gry</a></li>
 										<li><a href="https://soundcloud.com/user-121931644/sets/cienie-warszawy-soundtrack">Posłuchaj muzyki z gry</a></li>
 										<li>
 											<a href="#">Do pobrania &hellip;</a>
 											<ul>
 												<li><a href="https://github.com/FourWayGames/Kod-Zrodlowy-Wersja-Online">Kod źródłowy gry</a></li>
-												<li><a href="#">Gra w wersji offline</a></li>
-												<li><a href="https://www.mediafire.com/file/laa2lcdlowa4drl/Muzyka_z_gry_Cienie_Warszawy.zip/file">Soundtrack z gry</a></li>
+												<li><a href="https://www.mediafire.com/file/rs1so6971bqs0th/CienieWarszawy.rar/file">Gra w wersji offline</a></li>
+												<li><a href="https://www.mediafire.com/file/l5e8xync3nagu74/Muzyka_z_gry_Cienie_Warszawy.rar/file">Soundtrack z gry</a></li>
 											</ul>
 										</li>
 									</ul>
@@ -61,12 +64,65 @@
 			<!-- Banner -->
 				<section id="banner">
 					<header>
-						<h2>Odkryj swój cień już teraz <strong></strong>.</h2>
-					<div class="embed-container">
-                            <iframe id="gra" src="https://fourwaygames.github.io/gra/"  name="Cienie Warszawy" border="none"
-							webkitallowfullscreen="true" mozallowfullscreen="true" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; xr-spatial-tracking;  gyroscope; accelerometer; cross-origin-isolated" 
-							msallowfullscreen="true" scrolling="no" height="600px" width="960px" id="game_drop" allowtransparency="true" ></iframe>
-					</div>
+						<h2><strong>Odkryj swój cień już teraz </strong>.</h2>
+					<div id="gameContainer">
+		<canvas id="unity-canvas" data-pixel-art="true"></canvas>
+		<script src="Build/WEB.loader.js"></script>
+		<script>
+			var canvas = document.querySelector("#unity-canvas");
+			var config = {
+				dataUrl: "Build/WEB.data",
+				frameworkUrl: "Build/WEB.framework.js",
+				codeUrl: "Build/WEB.wasm",
+				streamingAssetsUrl: "StreamingAssets",
+				companyName: "FWGames",
+				productName: "CienieWarszawy",
+				productVersion: "0.9.3",
+			};
+			var scaleToFit;
+			try {
+				scaleToFit = !!JSON.parse("true");
+			} catch (e) {
+				scaleToFit = true;
+			}
+			function progressHandler(progress) {
+				var percent = progress * 100 + '%';
+				canvas.style.background = 'linear-gradient(to right, white, white ' + percent + ', transparent ' + percent + ', transparent) no-repeat center';
+				canvas.style.backgroundSize = '100% 1rem';
+			}
+			function onResize() {
+				var container = canvas.parentElement;
+				var w;
+				var h;
+
+				if (scaleToFit) {
+					w = window.innerWidth;
+					h = window.innerHeight;
+
+					var r = 600 / 960;
+
+					if (w * r > window.innerHeight) {
+						w = Math.min(w, Math.ceil(h / r));
+					}
+					h = Math.floor(w * r);
+				} else {
+					w = 960;
+					h = 600;
+				}
+
+				container.style.width = canvas.style.width = w + "px";
+				container.style.height = canvas.style.height = h + "px";
+				container.style.top = Math.floor((window.innerHeight - h) / 2) + "px";
+				container.style.left = Math.floor((window.innerWidth - w) / 2) + "px";
+			}
+			createUnityInstance(canvas, config, progressHandler).then(function (instance) {
+				canvas = instance.Module.canvas;
+				onResize();
+			});
+			window.addEventListener('resize', onResize);
+			onResize();
+		</script>
+	</div>
 					<button onclick="goFullscreen('gra'); return false">Kliknij tutaj aby przełącz grę w tryb pełnoekranowy (Żeby potem wyjść wciśnij w dowolnym momencie przycisk "ESC" na klawiaturze)</button>
 					</header>
 				</section>
@@ -77,9 +133,11 @@
 				<div class="wrapper style2">
 
 					<article id="main" class="container special">
-						<a href="#" class="image featured"><img src="images/image06.png" alt="" height="600px" width="400px" /></a>
+						
 						<header>
 							<h2><a>O grze</a></h2>
+							<img src="images/image06.png" alt="" style="width:50%; height:auto; float:left; margin:1em;" />
+							
 							<p>
 								Gra “Cienie Warszawy” oparta jest na gatunku gier Tower Defense. Naszym zadaniem jest bronić celów przy użyciu sił obronnych - dzielnych Powstańców. 
 W tym przypadku bronimy historyczne miejsca w Warszawie przed napierającym atakiem niemieckiej armii.
@@ -93,7 +151,7 @@ W tym przypadku bronimy historyczne miejsca w Warszawie przed napierającym atak
 
 				</div>
 
-
+<center><img src="images/logo.png" alt="" style="width:442px; height:auto" /></center>
 			<!-- Footer -->
 				<div id="footer">
 					<div class="container">

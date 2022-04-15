@@ -1,0 +1,61 @@
+----------------------------------------------------------------------------------------------------
+Scenariusz gry Cienie Warszawy
+—-------------------------------------------------------------------------------------------------
+Nazwa gry: Cienie Warszawy
+Nazwa grupy: FourWayGames
+Opis gry: Cienie Warszawy to gra strategiczna gdzie wcielamy się w powstańca Warszawskiego który dostaje zadanie. Tym zadaniem jest obrona Warszawy.
+Styl: Pixel-art 
+Na czym polega mechanika: Tower Defence, polega na strategicznym rozmieszczaniu jednostek obronnych (jacyś żołnierze, czołgi itp) w takich miejscach by odeprzeć atak nadciągających wrogów na główny punkt mapy
+
+Poziomy:
+Wszystko dzieje się podczas Powstania Warszawskiego
+W lokacjach takich jak:
+
+Poziom 0 - hotel „Victoria” przy ul. Jasnej
+Poziom 1 - gmach Towarzystwa Ubezpieczeń „Prudential”
+Poziom 2 - hotel „Victoria” przesłuchanie
+Poziom 3 - Poczta Główna
+Poziom 4 - Polska Wytwórnia Papierów Wartościowych
+Poziom 5 - Pałac Krasińskich
+Poziom 6 - Bank Polski “PKO”
+Poziom 7 - Gęsiówka” – niemiecki obóz koncentracyjny (KL Warschau)
+Poziom 8 - Uniwersytet Warszawski
+
+Aspekt Edukacyjny:   
+Gra przedstawia historię Powstania Warszawskiego wraz z dokładną lokalizacją i opisem danego miejsca czy akcji.
+                                         
+
+Poziom 0 - 
+Bohater Kamil przygotowując obiad usłyszał pukanie do drzwi, bał się ich otwarcia ale przez judasza zauważył swoich kolegów Stefana i Jerzego. Kamil szybko otworzył drzwi, wpuścił ich do środka i zamykając drzwi zapytał: *dokument z dialogiem*
+Bohater wraz z kolegami wychodzi tyłem budynku i biegną do apteki gdzie graczowi pojawi się plansza przykładowa jak rozłożyć wojsko i zbudować dobrą obronę. 
+Po odepchnięciu sił Niemieckich z Żoliborza i Woli nasz pułk zdobywa hotel “Victoria” na ul.Jasnej i tam powstaje nasza kwatera gdzie zarządzamy wojskiem AK idącym odbić “Prudential” przy Placu Napoleona
+
+
+Poziom 1:
+Zarządzamy bitwą o “Prudential” gdzie naszym zadaniem jest porwanie generała niemieckiego Maxa Dirske. 
+
+Poziom 2:
+Przesłuchujemy Maxa Dirske i po wyciągnięciu od niego informacji co dalej zamierzali robić, dalej bronimy Prudential przy użyciu nowych broni.
+
+
+Poziom 3 
+W zarządzie oddziałów Kamil dowiaduje się że Heinrich Himmler w radiu ogłosił przemówienie że “Każdego trzeba zabić i nie wolno brać jeńców. Warszawa ma być zrównana jako sposób zastraszenia całej Europy”. Ale Kamil się nie boi bo wie jaki jest następny ich ruch i cały oddział kieruje na odbicie Poczty Głównej.
+(Odbijamy Pocztę)
+
+Poziom 4
+W tym poziomie idziemy bronić PWPW czyli miejsce bardzo strategiczne i wartościowe. 
+
+Poziom 5
+Nasze oddziały kierujemy na pomoc i ratunek rodzinie Krasińskich gdzie będziemy bronić ich Pałacu
+
+Poziom 6
+Kierujemy oddział na obronę Banku PKO gdyż jest to miejsce które jest najbardziej wartościowe dla nas i wróg chce to jednak zgarnąć
+
+Poziom 7
+Biegniemy bronić i ratować jeńców z obozu Gęsiówka.
+
+Poziom 8
+Na ratunek nauce czyli obrona Politechniki Warszawskiej
+
+Poziom 9
+Porażka i upadek naszego cienia 
