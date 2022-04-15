@@ -1,0 +1,539 @@
+ 
+          "KAMIL"
+          "Co jest?"
+        
+         
+          "OLIWIER"
+          "Słuchaj, nie ma czasu, musisz nam pomóc!"
+        
+         
+          "KAMIL"
+          "Ale co? Co się dzieje?"
+      
+         
+           "OLIWIER"
+          "Niemcy robią zaraz najazd na Hotel, a my potrzebujemy dowódcy."
+        
+         
+          "OLIWIER"
+          "No i pomyśleliśmy ze się nadasz."
+        
+         
+          "KAMIL"
+          "Uhh, ale że ja? No nie wiem..."
+        
+         
+          "KAMIL"
+          "..."
+        
+         
+          "OLIWIER"
+          "..."
+        
+          
+          "KAMIL"
+          "..."
+        
+         
+          "KAMIL"
+          "...No dobra, wchodzę w to."
+        
+         
+          "OLIWIER"
+          "No to w dechę! Wybacz, że to tak nagle, ale sam wiesz, OCZEKIWANA GODZINA wybiła, no i ODDZIAŁY AK walczą, z tym że brakuje im kogoś na stanowisku dowodzenia..."
+        
+         
+          "OLIWIER"
+          "Dobra, musimy iść na zaplecze apteki Kalinowa. Czekają tam na nas."
+        
+         
+        
+        
+  
+       
+        
+        
+     
+  "FourWayGames"
+          "Witaj w samouczku dotyczącym rozgrywki!"
+        
+        
+               
+          "FourWayGames"
+          "Zacznijmy od menu i znaczenia ikon w nim zawartych:"
+        
+         
+       
+          "FourWayGames"
+          "To jest licznik wroga, pokazuje on ilość pokonanych przeciwników w stosunku do pozostałych"
+        
+        
+          "FourWayGames"
+          "To są zasoby. Potrzebujesz ich do rozmieszczania jednostek na planszy. Aby je zdobyć musisz pokonać przeciwników."
+        
+        
+          "FourWayGames"
+          "To jest czas odliczany do przybycia wrogiej jednostki."
+        
+         
+          "FourWayGames"
+          "To jest pasek poziomu życia (HP). Jeżeli jego ilość osiągnie wartość 0 przegrywasz grę."
+        
+         
+          "FourWayGames"
+          "Na planszy pojawia się  czerwony kwadrat. Jest to oznaczenie skąd pojawiają się przeciwnicy."
+        
+         
+          "FourWayGames"
+          "To wszystko jeśli chodzi o podstawowe oznaczenia!"
+        
+         
+          "FourWayGames"
+          "No to przejdźmy teraz do praktycznej części gry:"
+        
+         
+     
+
+        
+          "FourWayGames"
+          "Otwórz panel kupowania (naciśnij klawisz E) aby kontynuować..."
+        
+        
+          "FourWayGames"
+          "Tutaj znajdziesz wszystkie sojusznicze jednostki, które możesz w tej chwili kupić"
+        
+         
+          "FourWayGames"
+          "Na ten moment jest tylko jedna jednostka sojusznicza,  ale wraz z nowymi poziomami, będzie ich przybywać więcej!"
+        
+         
+          "FourWayGames"
+          "Pod nimi jest informacja ile dokładnie zasobów potrzebujesz, by móc je kupić"
+        
+         
+          "FourWayGames"
+          "By je kupić, naciśnij na nie lewym przyciskiem myszki, i tym samym przyciskiem postaw gdzieś na trawie"
+        
+         
+       
+          "FourWayGames"
+          "Postaw 2 jednostki aby kontynuować..."
+        
+         
+         
+          "FourWayGames"
+          "Aby je usunąć z planszy, naciśnij na jednostce prawym przyciskiem myszki, zwróci ci to 100% wydanych zasobów"
+        
+         
+    
+        }
+          "FourWayGames"
+          "Usuń 2 jednostki aby kontynuować..."
+        
+       
+
+          "FourWayGames"
+          "Świetnie! pamiętaj też, że pod klawiszem ESC możesz wyjść z gry lub przejść do ustawień!"
+        
+         
+          "FourWayGames"
+          "To wszystko z naszej strony. Pamiętaj że grając, odblokowywujesz paski pod przyciskiem 'Historia' w głównym menu. Przejrzyj je bo są ciekawe!"
+        
+         
+          "FourWayGames"
+          "Miłej gry!"
+        
+       
+               
+       
+          "KAMIL"
+          "Udało się, odepchneliśmy ich!"
+        
+
+         
+          "ANTONI CHRUŚCIEL"
+          "Gratuluje, akcja jak na medal!"
+        ManagerForSecondProject.BlockForCutscene  
+        
+
+         
+          "KAMIL"
+          "Huh? aa to Pan, Panie Chruściel! haha"
+        
+
+
+         
+          "ANTONI CHRUŚCIEL"
+          "Teraz, jak Hotel Victoria jest w naszych rękach, to może rozważcie fakt przeniesienia tu sztabu dowodzenia?"
+        
+
+         
+
+          "ANTONI CHRUŚCIEL"
+          "W końcu, jest to doskonały punkt strategiczny dla naszego oddziału"
+        
+
+         
+
+          "KAMIL"
+          "...Naszego?"
+        
+
+         
+
+          "ANTONI CHRUŚCIEL"
+          "No tak, pomyślałem sobie, że może zechcesz dołączyć do mojego batalionu 'Papiloty' Z Warszawskiego oddziału AK?"
+        
+         
+
+          "KAMIL"
+          "Hmm... no nie wiem"
+        
+         
+          "OLIWIER"
+          "No dajesz Kamil! Z twoimi umiejętnościami strategicznymi możesz zmienić oblicze Powstania!"
+        
+         
+          "KAMIL"
+          "Ugh, no mogę spróbować ...chyba"
+        
+         
+          "ANTONI CHRUŚCIEL"
+          "Uznaje więc propozycję za przyjętą, masz teraz do dyspozycji moje oddziały! Licze na ciebie"
+        
+
+      
+        
+         
+        
+          "OLIWIER"
+          "Więc jaki jest nasz kolejny plan? W końcu masz dostęp do batalionu Papiloty"
+        
+         
+          "KAMIL"
+          "Więc tak: przejrzałem zasoby batalionu, i jedno jest pewne... potrzebujemy więcej broni i amunicji"
+        
+         
+          "KAMIL"
+          "I tu fajna część ... kojarzysz gmach Prudential, nie? Niemcy go właśnie przęjeli!!!"
+        
+         
+          "KAMIL"
+          "No i przesiaduje tam obecnie ten ich generał, Max Dirske to doskonała okazja by go porwać, przesłuchać..."
+        
+         
+          "KAMIL"
+          "Ukraść im broń i amunicję oraz przejąć spowrotem budynek!"
+        
+         
+           "OLIWIER"
+          "Hmm brzmi jak dobry plan"
+        
+      
+        
+        
+          "KAMIL"
+          "Dobra! misja udana! to teraz tylko sie przygotować na przesłuchanie..."
+        
+         
+        
+        
+        
+          "KAMIL"
+          "Kto tu umie niemiecki!?"
+        
+         
+           "ŻOŁNIERZ BATALIONU"
+          "Ja! jestem tłumaczem"
+        
+         
+           "KAMIL"
+          "Potrzebujemy cie do przepytania tego niemieckiego generała, chodź z nami"
+        
+         
+           "ŻOŁNIERZ BATALIONU"
+          "Hallo Max, warum erzählst du mir nicht von deinen Plänen? black(Cześć Max, może powiesz mi o swoich planach?)"
+        
+          
+           "MAX DIRSKE"
+          "Ich werde es dir nicht sagen, polnisches Schwein. Im Allgemeinen spreche ich Polnisch, daher weiß ich nicht, warum wir Deutsch sprechen black(Nie powiem ci, polska świnio. Generalnie mówię po polsku, więc nie wiem, dlaczego mówimy po niemiecku)"
+      
+         
+           "ŻOŁNIERZ BATALIONU"
+          "Ułatwisz mi tylko sprawę w aktach skoro tak, jakie macie plany na atak? Może się podzielisz?"
+        
+         
+           "MAX DIRSKE"
+          "G*wno ci powiem!"
+        
+          
+           "ŻOŁNIERZ BATALIONU"
+          "No cóż, skoro tak"
+        
+          
+           "ŻOŁNIERZ BATALIONU"
+          "*Strzela Max'owi obok kolana ...*"
+        
+          
+           "MAX DIRSKE"
+          "AGH!!! DOBRA JUŻ DOBRA, POCZTA POLSKA, NASTĘPNY CEL TO POCZTA POLSKA"
+        
+          
+           "KAMIL"
+          "Dobra... czyli trzeba lepiej ich o tym powiadomić, dobra robota żołnierzu!"
+        
+          
+           "ŻOŁNIERZ BATALIONU"
+          "Prościzna! co z nim dalej zrobimy?"
+        
+         
+           "KAMIL"
+          "Cóż, myslę że wia...."
+        
+         
+           "OLIWIER"
+          "Chłopaki!!! Niemcy się chyba lekko wkurzyli, że porwaliśmy Maxa, idzie na nas cała armia, pomóżcie nam, szybko!"
+        
+         
+           "KAMIL"
+          "To było do przewidzenia... Ruszajmy!"
+        
+          
+         
+        
+        
+           "KAMIL"
+          "Niemcy odparci! Wszyscy cali!?"
+        
+         
+           "OLIWIER"
+          "O nas sie nie martw, daliśmy radę. Gorzej, że Max zdołał uciec..."
+        
+          
+           "KAMIL"
+          "To nie jest nic dobrego, choć z drugiej strony, pokazaliśmy im, że nie żartujemy, i jesteśmy silni"
+        
+          
+           "KAMIL"
+          "Może poczekajmy aż sytuacja się rozwinie, dajmy sobie z nim spokój na razie"
+        
+
+        
+        
+        
+         
+           "HEINRICH HIMMLER"
+          "[Z radia] Każdego trzeba zabijać i nie wolno brać jeńców. Warszawa ma być zrównana jako sposób zastraszenia całej Europy"
+        
+         
+           "KAMIL"
+          "... Trzeba wszystkich o tym powiadomić, powinniśmy spodziewać się więcej ataków..."
+        
+          
+           "OLIWIER"
+          "No tak... przy okazji, pare godzin temu odwiedził nas Henryk Leliwa-Roycewicz. Kojarzysz go, prawda?"
+        
+          
+           "KAMIL"
+          "No oczywiście że tak, jest dowódcą 'Kiliński' są dość sławni. Co chciał?"
+        
+          
+           "OLIWIER"
+          "Proponował współpracę. My pomagamy mu w obronie poczty, a on wzamian da nam parę jednostek do pomocy"
+        
+          
+           "KAMIL"
+          "Brzmi jak dobry układ, lepiej kierujmy się do niego, Himmler raczej nie żartował..."
+        
+        
+        
+         
+           "FourWayGames"
+          "Witaj spowrotem! Wkroczyłeś właśnie do poziomu 3. Mamy nadzieje że gra sie podoba?"
+        
+        
+       
+           "FourWayGames"
+          "W tym poziomie, możesz zauważyć jedną nową rzecz (Naciśnij klawisz E aby kontynuuować)"
+        
+         
+           "FourWayGames"
+          "Mianowicie, pojawiły się na mapie 'Bonusowe Pola' które sprawiają że gdy postawisz tam jakąkolwiek jednostke, dostaje ona wzmocnienie określonej cechy"
+        
+         
+           "FourWayGames"
+          "Są tylko 2 rodzaje takich pól, wszystkie widzisz na mapie, a odróżnia się je tak:"
+        
+         
+           "FourWayGames"
+          "ZIELONE POLE dodaje jednostce umiejscowionej na tym polu 40 Punktów życia więcej"
+        
+         
+           "FourWayGames"
+          "CZERWONE POLE dodaje jednostce umiejscowionej na tym polu 20 punktów do zadawanych obrażeń"
+        
+         
+           "FourWayGames"
+          "Są one doskonałym sposobem na zyskanie choć lekkiej przewagi, używaj ich jeśli możesz!"
+        
+         
+           "FourWayGames"
+          "To wszystko!"
+        
+         
+           "FourWayGames"
+          "Przypominamy ci jeszcze, abyś sprawdzał sekcje 'Historia' w głównym menu! Są tam ciekawe rzeczy"
+        
+         
+           "FourWayGames"
+          "Powodzenia i miłej gry!"
+       
+       
+        
+         
+       
+           "KAMIL"
+          "Udało się! Obroniliśmy Poczte Polską!"
+        
+         
+        
+        
+        
+        
+           "OLIWIER"
+          "Podsłuchałem radiostacji wroga, idą właśnie na Polską Wytwórnie Papierów Wartościowych"
+        
+          
+           "KAMIL"
+          "Nie jest dobrze, coraz więcej Niemców ..."
+        
+          
+           "KAMIL"
+          "Powiadom o tym ludzi, musimy dać z siebie wszystko przy obronie Wytwórni!"
+        
+         
+           "OLIWIER"
+          "Jasne!"
+        
+          
+        
+         
+        
+           "OLIWIER"
+          "Strasznie ciężki ten pojedynek ... Ledwo daliśmy radę"
+        
+          
+           "KAMIL"
+          "No, ale liczy się, że wygraliśmy. Świetna robota!"
+        
+        
+        
+        
+           "OLIWIER"
+          "Ugh... dzień w dzień jakieś ataki, dali by sobie spokój..."
+        
+         
+           "KAMIL"
+          "Dostałem właśnie informacje, jakoby pałac Krasińskich był w tarapatach. Proszono nas o pomoc w obronie."
+        
+         
+           "OLIWIER"
+          "Dobra, to zbiore oddział i widzimy się tam za pół godziny"
+        
+          
+        
+        
+        
+        
+           "OLIWIER"
+          "Uff, to chyba już wszyscy, Świetna robota!"
+        
+        
+        
+         
+         
+           "KAMIL"
+          "Oliwier! zrobiło się poważnie, dostałem informację, że wróg kieruje się na bank PKO"
+        
+          
+           "OLIWIER"
+          "Kurde, powinniśmy się śpieszyć z obrony obroną. Dopuszczenie wroga do masy złota i pieniędzy może źle się skończyć..."
+        
+        
+        
+        
+           "OLIWIER"
+          "Hurra! sukces, odepchneliśmy Niemców"
+        
+         
+           "KAMIL"
+          "No i fajnie, wysłałem kilku ludzi aby sprawdzili czy Bank nie ucierpiał i nic z niego nie ukradziono. Jak na razie wszystko się zgadza"
+        
+       
+        
+         
+       
+           "KAMIL"
+          "Oliwier, zbieraj kogo się da. Nasi odbili Gęsiówkę, ale sami nie dadzą rady, musimy im pomóc odepchnąć pozostałych Niemców"
+        
+         
+           "OLIWIER"
+          "Jasne!"
+        
+       
+        
+         
+        
+           "OLIWIER"
+          "O Boże, ile tu ciał, i to nie tylko wroga..."
+        
+         
+           "KAMIL"
+          "Co nie? Prawdziwy koszmar... niestety wszystkich uratować się nigdy nie da..."
+        
+        
+        
+        
+           "KAMIL"
+          "Właśnie dostałem informacje od jednego z uczniów Politechniki Warszawskiej, że ich uczelnia zaczęła obrywać, powinniśmy iść im pomóc"
+        
+        
+           "OLIWIER"
+          "Ani chwili odpoczynku, huh? Ruszajmy!"
+        
+       
+        
+         
+         
+           "KAMIL"
+          "O kurcze, udało się! To była największa bitwa w moim życiu"
+        
+          
+        
+           "OLIWIER"
+          "Co nie? Ale tyle naszych tu zginęło..."
+        
+          
+        
+           "OLIWIER"
+          "Plus zwróciliśmy na siebie największą uwage Niemców"
+        
+         
+        
+           "KAMIL"
+          "Myśle że przez pewien czas powinniśmy się ukryć"
+        
+          
+        
+           "KAMIL"
+          "Bo ponieśliśmy zbyt duże straty w ludziach, i nie damy rady walczyć przez pewien czas"
+        
+          
+       
+           "OLIWIER"
+          "Czyli czekamy w cieniu, i kiedy nadejdzie pora, damy Niemcom popalić jeszcze mocniej..."
+        
+          
+           "KAMIL"
+          "Dokładnie"
+        

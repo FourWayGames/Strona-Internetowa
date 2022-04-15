@@ -3243,7 +3243,10 @@ input, select, textarea {
 
 div#gameContainer {
 			background: transparent !important;
-			position: relative;
+			position: static; 
+			width: 80%;
+			margin: 0 auto;
+			padding: 20px;
 		}
 
 		div#gameContainer canvas {

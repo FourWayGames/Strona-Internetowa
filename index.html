@@ -51,6 +51,7 @@
 												<li><a href="https://github.com/FourWayGames/Kod-Zrodlowy-Wersja-Online">Kod źródłowy gry</a></li>
 												<li><a href="https://www.mediafire.com/file/rs1so6971bqs0th/CienieWarszawy.rar/file">Gra w wersji offline</a></li>
 												<li><a href="https://www.mediafire.com/file/l5e8xync3nagu74/Muzyka_z_gry_Cienie_Warszawy.rar/file">Soundtrack z gry</a></li>
+												<li><a href="https://www.mediafire.com/file/xz2dtrjk0t6bl6a/Surowe_pliki_z_gry.rar/file">Grafika i pliki muzyczne do obróbki</a></li>
 											</ul>
 										</li>
 									</ul>
@@ -123,7 +124,7 @@
 			onResize();
 		</script>
 	</div>
-					<button onclick="goFullscreen('gra'); return false">Kliknij tutaj aby przełącz grę w tryb pełnoekranowy (Żeby potem wyjść wciśnij w dowolnym momencie przycisk "ESC" na klawiaturze)</button>
+					<button onclick="goFullscreen('gameContainer'); return false">Kliknij tutaj aby przełącz grę w tryb pełnoekranowy (Żeby potem wyjść wciśnij w dowolnym momencie przycisk "ESC" na klawiaturze)</button>
 					</header>
 				</section>
 
@@ -198,8 +199,8 @@ W tym przypadku bronimy historyczne miejsca w Warszawie przed napierającym atak
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script>
-function goFullscreen(gra) {
-    var element = document.getElementById(gra);
+function goFullscreen(gameContainer) {
+    var element = document.getElementById(gameContainer);
     if (element.mozRequestFullScreen) {
       element.mozRequestFullScreen();
     } else if (element.webkitRequestFullScreen) {

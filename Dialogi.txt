@@ -1,0 +1,381 @@
+
+          "KAMIL";
+          "Co jest?";
+        
+          "STEFAN";
+          "Słuchaj, nie ma czasu, musisz nam pomóc!";
+        
+          "KAMIL";
+          "Ale co? Co się dzieje?";
+       
+           "JERZY";
+          "Niemcy robią zaraz najazd na Hotel, a my potrzebujemy dowódcy.";
+       
+          "STEFAN";
+          "Dokładnie, no i pomyśleliśmy ze się nadasz.";
+       
+          "KAMIL";
+          "Uhh, ale że ja? No nie wiem...";
+        
+          "STEFAN";
+          "...";
+        
+          "JERZY";
+          "...";
+        
+          "KAMIL";
+          "...";
+        
+          "KAMIL";
+          "...No dobra, wchodzę w to.";
+        
+          "JERZY";
+          "No to w dechę! Wybacz, że to tak nagle, ale sam wiesz, <colorred>OCZEKIWANA GODZINA</color> wybiła, no i <color=red>ODDZIAŁY AK</color> walczą, z tym że brakuje im kogoś na stanowisku dowodzenia...";
+       
+          "STEFAN";
+          "Dobra, musimy iść na zaplecze apteki Kalinowa. Czekają tam na nas.";
+       
+        
+        
+           "FourWayGames";
+          "Witaj w samouczku dotyczącym rozgrywki!";
+       
+          "FourWayGames";
+          "Zacznijmy od menu i znaczenia ikon w nim zawartych:";
+       
+       
+          "FourWayGames";
+          "To jest licznik wroga, pokazuje on ilość pokonanych przeciwników w stosunku do pozostałych";
+      
+        
+          "FourWayGames";
+          "To są zasoby. Potrzebujesz ich do rozmieszczania jednostek w grze/na planszy. Aby je zdobyć musisz pokonać przeciwników.";
+        
+          "FourWayGames";
+          "To jest czas odliczany do przybycia wrogiej jednostki.";
+       
+          "FourWayGames";
+          "To jest pasek poziomu życia (HP). Jeżeli jego ilość osiągnie wartość 0 przegrywasz grę.";
+       
+          "FourWayGames";
+          " Na mapie czasami będzie się pojawiał  <colorred>czerwony kwadrat</color>. Jest to oznaczenie odrodzenia się przeciwnika;
+       
+          "FourWayGames";
+          "To wszystko jeśli chodzi o podstawowe oznaczenia!";
+        
+          "FourWayGames";
+          "No to przejdźmy teraz do praktycznej części gry:";
+        
+        
+          "FourWayGames";
+          "Otwórz panel kupowania (naciśnij klawisz E) aby kontynuować...";
+        
+          "FourWayGames";
+          "Tutaj znajdziesz wszystkie sojusznicze jednostki, które możesz w tej chwili kupić";
+       
+          "FourWayGames";
+          "Na ten moment jest tylko jedna jednostka sojusznicza,  ale wraz z nowymi poziomami, będzie ich przybywać więcej!";
+        
+          "FourWayGames";
+          "Pod nimi jest informacja ile dokładnie zasobów potrzebujesz, by móc je kupić";
+        
+          "FourWayGames";
+          "By je kupić, naciśnij na nie lewym przyciskiem myszki, i tym samym przyciskiem postaw gdzieś na trawie";
+        
+          "FourWayGames";
+          "Postaw 2 jednostki aby kontynuować...";
+       
+          "FourWayGames";
+          "Aby je usunąć z mapy, naciśnij na jednostce prawym przyciskiem myszki, zwróci ci to 100% wydanych zasobów";
+       
+          "FourWayGames";
+          "Usuń 2 jednostki aby kontynuować...";
+       
+          "FourWayGames";
+          "Świetnie! pamiętaj też, że pod klawiszem <colorred>ESC</color> możesz wyjść z gry lub przejść do ustawień!";
+        
+          "FourWayGames";
+          "To wszystko z naszej strony. Jeżeli kiedykolwiek będziesz chciał przypomnieć sobie informacje z samouczka to w głównym menu właśnie odblokowano przycisk 'Historia', w którym możesz przejrzeć najważniejsze informacje zaznaczone na czerwono";
+        
+          "FourWayGames";
+          "Miłej gry!";
+       
+          "KAMIL";
+          "Udało się, odepchneliśmy ich!";
+        
+          "ANTONI CHRUŚCIEL";
+          "Gratuluje, akcja jak na medal!";
+       
+          "KAMIL";
+          "Huh? aa to Pan, Panie Chruściel! haha";
+       
+          "ANTONI CHRUŚCIEL";
+          "Teraz, jak Hotel Victoria jest w naszych rękach, to może rozważcie fakt przeniesienia tu sztabu dowodzenia?";
+        
+
+          "ANTONI CHRUŚCIEL";
+          "W końcu, jest to doskonały punkt strategiczny dla naszego oddziału";
+       
+
+          "KAMIL";
+          "...Naszego?";
+       
+
+          "ANTONI CHRUŚCIEL";
+          "No tak, pomyślałem sobie, że może zechcesz dołączyć do mojego batalionu 'Papiloty' Z warszawskiego oddziału AK?";
+        
+
+          "KAMIL";
+          "Hmm... no nie wiem";
+        
+          "OLIWIER";
+          "No dajesz Kamil! Z twoimi umiejętnościami strategicznymi możesz zmienić oblicze Powstania!";
+        
+          "KAMIL";
+          "Ugh, no mogę spróbować ..chyba";
+        
+          "ANTONI CHRUŚCIEL";
+          "Uznaje więc propozycję za przyjętą, masz teraz do dyspozycji moje oddziały! Licze na ciebie";
+        
+
+        
+          "OLIWIER";
+          "Więc jaki jest nasz kolejny plan? W końcu masz dostęp do <colorred>batalionu 'Papiloty'</color>";
+        
+          "KAMIL";
+          "Więc tak: przejrzałem zasoby batalionu, i jedno jest pewne... potrzebujemy więcej broni i amunicji";
+       
+          "KAMIL";
+          "I tu fajna część ... kojarzysz gmach Prudential, nie? Niemcy go właśnie przęjeli!!!";
+        
+          "KAMIL";
+          "No i przesiaduje tam obecnie ten ich generał, <colorred>Max Dirske</color> to doskonała okazja by go porwać, przesłuchać...";
+        
+          "KAMIL";
+          "Ukraść im broń i amunicję oraz przejąć spowrotem budynek!";
+        
+           "OLIWIER";
+          "Hmm brzmi jak dobry plan";
+        
+          "KAMIL";
+          "Dobra! misja udana! to teraz tylko sie przygotować na przesłuchanie...";
+        
+          "KAMIL";
+          "Kto tu umie niemiecki!?";
+        
+           "Żołnierz batalionu";
+          "Ja! jestem tłumaczem";
+        
+           "KAMIL";
+          "Potrzebujemy cie do przepytania tego niemieckiego generała, chodź z nami";
+        
+           "Żołnierz batalionu";
+          "Hallo Max, warum erzählst du mir nicht von deinen Plänen? (Cześć Max, może powiesz mi o swoich planach?)";
+        
+           "Max";
+          "Ich werde es dir nicht sagen, polnisches Schwein. Im Allgemeinen spreche ich Polnisch, daher weiß ich nicht, warum wir Deutsch sprechen (Nie powiem ci, polska świnio. Generalnie mówię po polsku, więc nie wiem, dlaczego mówimy po niemiecku)";
+        
+           "Żołnierz batalionu";
+          " Ułatwisz mi tylko sprawę w aktach skoro tak, jakie macie plany na atak? Może się podzielisz?";
+       
+           "Max";
+          "G*wno ci powiem!";
+        
+           "Żołnierz batalionu";
+          "No cóż, skoro tak";
+        
+           "Żołnierz batalionu";
+          "*Strzela Max'owi obok kolana ...*";
+       
+           "Max";
+          "AGH!!! DOBRA JUŻ DOBRA, POCZTA POLSKA, NASTĘPNY CEL TO POCZTA POLSKA";
+        
+           "Kamil";
+          "Dobra... czyli trzeba lepiej ich o tym powiadomić, dobra robota żołnierzu!";
+        
+           "Żołnierz Batalionu";
+          "Prościzna! co z nim dalej zrobimy?";
+       
+           "Kamil";
+          "Cóż, myslę że wia....";
+       
+           "Oliwier";
+          "Chłopaki!!! Niemcy si chyba lekko wkurzyli, że porwaliśmy Maxa, idzie na nas cała armia, pomóżcie nam, szybko!";
+        
+           "Kamil";
+          "To było do przewidzenia... Ruszajmy!";
+        
+           "Kamil";
+          "Niemcy odparci! Wszyscy cali!?";
+        
+           "Oliwier";
+          "O nas sie nie martw, daliśmy radę. Gorzej, że Max zdołał uciec...";
+        
+           "Kamil";
+          "To nie jest nic dobrego, choć z drugiej strony, pokazaliśmy im, że nie żartujemy, i jesteśmy silni";
+        
+           "Kamil";
+          "Może poczekajmy aż sytuacja się rozwinie, dajmy sobie z nim spokój na razie";
+        
+           "Heinrich Himmler";
+          [Z radia] "Każdego trzeba zabijać i nie wolno brać jeńców. Warszawa ma być zrównana jako sposób zastraszenia całej Europy";
+       
+           "Kamil";
+          "... Trzeba wszystkich o tym powiadomić, powinniśmy spodziewać się więcej ataków...";
+        
+           "Oliwier";
+          "No tak... przy okazji, pare godzin temu odwiedził nas Henryk Leliwa-Roycewicz. Kojarzysz go, prawda?";
+       
+           "Kamil";
+          "No oczywiście że tak, jest dowódcą 'Godziny W' czyli jego Armii złożonej z listonoszy! Co chciał?";
+       
+           "Oliwier";
+          "Proponował współpracę. My pomagamy mu w obronie poczty, a on wzamian da nam parę jednostek do pomocy";
+        
+           "Kamil";
+          "Brzmi jak dobry układ, lepiej kierujmy się do niego, Himmler raczej nie żartował...";
+       
+           "Max";
+          "Udało się! obroniliśmy Poczte Polską!";
+       
+           "Oliwier";
+          "Podsłuchałem radiostacji wroga, idą właśnie na Polską Wytwórnie Papierów Wartościowych";
+       
+           "Kamil";
+          "Nie jest dobrze, coraz więcej Niemców ...";
+        
+           "Kamil";
+          "Powiadom o tym ludzi, musimy dać z siebie wszystko przy obronie Wytwórni!";
+        
+           "Oliwier";
+          "Jasne!";
+        
+           "Oliwier";
+          "Strasznie ciężki ten pojedynek ... Ledwo daliśmy radę";
+       
+           "Kamil";
+          "No, ale liczy się, że wygraliśmy. Świetna robota!";
+        
+           "Oliwier";
+          "Ugh... dzień w dzień jakieś ataki, dali by sobie spokój...";
+       
+           "Kamil";
+          "Cóż, tak już bywa na wojnie, przy okazji, dostałem właśnie informacje, jakoby pałac Krasińskich był w tarapatach. Proszono nas o pomoc w obronie.";
+        
+           "Oliwier";
+          "Dobra, to zbiore oddział i widzimy się tam za pół godziny";
+        
+         
+           "Oliwier";
+          "Uff, to chyba już wszyscy, Świetna robota!";
+       
+           "Kamil";
+          "Oliwier! zrobiło się poważnie, dostałem informację, że wróg kieruje się na bank PKO";
+       
+           "Oliwier";
+          "Kurde, powinniśmy się śpieszyć z obrony obroną. Dopuszczenie wroga do masy złota i pieniędzy może źle się skończyć...";
+       
+           "Oliwier";
+          "Hurra! sukces, odepchneliśmy Niemców";
+       
+           "Kamil";
+          "No i fajnie, wysłałem kilku ludzi aby sprawdzili czy Bank nie ucierpiał i nic z niego nie ukradziono. Jak na razie wszystko się zgadza";
+       
+           "Kamil";
+          "Oliwier, zbieraj kogo się da. Nasi odbili Gęsiówkę, ale sami nie dadzą rady, musimy im pomóc odepchnąć pozostałych Niemców";
+        
+           "Oliwier";
+          "Jasne!";
+      
+        
+           "Oliwier";
+          "O Boże, ile tu ciał, i to nie tylko wroga...";
+       
+           "Kamil";
+          "Co? ... nie! Prawdziwy koszmar... niestety wszystkich uratować się nigdy nie da...";
+       
+           "Kamil";
+          "Właśnie dostałem informacje od jednego z uczniów Politechniki Warszawskiej, że ich uczelnia zaczęła obrywać, powinniśmy iść im pomóc ";
+        
+           "Oliwier";
+          "Ani chwili odpoczynku, huh? Ruszajmy!";
+        
+        
+           "Kamil";
+          "Kolejny sukces! widziałeś miny tych uczniów? Szczęśliwi jak nigdy dotąd!";
+        
+           "Oliwier";
+          "Cieszy mnie to! W końcu tam tkwi ich kariera";
+        
+        
+           "Kamil";
+          "Wróg się zbliża... przez te ostatnie dni mam wrażenie jakby to były nasze ostatnie chwile ...";
+        
+           "Oliwier";
+          "Taa... Niemcy w końcu odkryli kto stoi za tymi sukcesami w ich odpieraniu. Znaleźli nas, i teraz chcą nas dopaść ...";
+        
+           "Kamil";
+          "Jedno jest pewne, musimy dać z siebie wszystko... To może być nasza ostatnia rozmowa";
+        
+           "Oliwier";
+          "Powodzenia";
+       
+           "Kamil";
+          "Jasne, Powodzenia...";
+
+
+
+
+       "Kamil"
+      "O kurcze udało się! To była największa bitwa w moim życiu..."
+
+       "Kamil"
+      "Miejmy nadzieje że to już po wszystkim, nie? Oliwier?
+
+       "Kamil"
+       "Huh? A on gdzie sie podział? Hej żołnierzu! Widziałes gdzieś Oliwiera?"
+
+       "Żołnierz Batalionu"
+       "Tak, siedzi za tamtą rozwaloną ścianą z medykiem, z tego co widziałem jest ranny
+
+        "Kamil"
+        "CO? Musze tam szybko biec"
+
+         "Kamil"
+         "Oliwier! Wszystko w porządku?!" 
+
+          "Oliwier"
+          "T..Ta, to tylko lekkie draśnięcie"
+
+           "Oliwier"
+           "Bardziej... ważne jest *Kaszel* to, co zabrałem jednemu Niemcowi... sam zobacz
+
+           "Zakrwawiony list"
+            "Dranie z Batalionu są dla nas zagrożeniem, zbierz wszystkie jednostki jakie masz i od razu ruszaj na Politechnike"
+
+            "Zakrwawiony list"
+             "Inne jednostki dołączą do ciebie wkrótce, ruszamy tam pełną mocą, zbyt mocno nas już upokorzyli!"
+
+              "Kamil"
+              "Niech to... czyli to nie koniec, musimy cie gdzieś przetransportować stąd, tu jest niebezpiecznie"
+
+              "Medyk Batalionu"
+              "Obawiam się, że to nie będzie konieczne, rana jest zbyt ciężka... I on może umrzeć w każdej chwili"
+
+               "Kamil"
+               "..."
+
+               "Żołnierz batalionu"
+               "Hej wszyscy! kolejna fala Niemców sie właśnie zbliża, przygotujcie sie, to nie koniec!
+
+                "Kamil"
+                "Nosz nie w tym momencie, musimy cie chociaż przetransportować gdzieś zdala, Oliwier"
+
+                "Kamil"
+                "O-Oliwier?"
+
+                "Medyk Batalionu"
+                "Obawiam się że na niego nadszedł już czas..."
+
+                 "Kamil"
+                 "...Twoje czyny dla Polski nie zostaną zapomniane Oliwier, Już ja tym Niemcom pokaże..."
